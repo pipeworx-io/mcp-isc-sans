@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pipeworx-io/isc-sans",
+  "title": "Isc Sans",
+  "description": "SANS Internet Storm Center (ISC) MCP.",
+  "version": "0.1.0",
+  "websiteUrl": "https://pipeworx.io/packs/isc-sans",
+  "repository": {
+    "url": "https://github.com/pipeworx-io/mcp-isc-sans",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gateway.pipeworx.io/isc-sans/mcp"
+    }
+  ]
+}

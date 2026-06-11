@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-isc-sans",
+  "version": "0.1.0",
+  "description": "SANS Internet Storm Center (ISC) MCP.",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "isc-sans"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipeworx-io/mcp-isc-sans"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
