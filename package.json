@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-isc-sans",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "SANS Internet Storm Center (ISC) MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-8ab374bba6f30454dbb477efda4e7e47123ea5a2573f36ebb19fb50e484f6e8f",
-    "sourceCommit": "1064560fd9dcd0d6fc2606298c2ba244b3a1fbeb"
+    "sourceHash": "v1-78ba6c95326054bd3022e3c5d3570f61cff334b1e314ae471f5e707fdb0b2a17",
+    "sourceCommit": "33741fe6d9ba71856e73fa683c73572d1ddf2e93"
   }
 }
