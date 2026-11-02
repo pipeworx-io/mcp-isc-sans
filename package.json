@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-isc-sans",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "SANS Internet Storm Center (ISC) MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "isc-sans",
     "gatewaySlug": "isc-sans",
-    "sourceHash": "v1-2cffd10a1af1c2733b19b7531aeceaed7becf5819329c9bf64439f9fb7d556ac",
-    "sourceCommit": "4844029e402d6bd2fe735add8abf6d46735f8ed5"
+    "sourceHash": "v1-b1cc5ce1187ff00075852a8d4302611abd29c4eb76bbdf9fa47644c89c5b2748",
+    "sourceCommit": "0ca9712c0ac03bb0121cc7e81b202d0c45ac02ca"
   }
 }
